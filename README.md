@@ -4,13 +4,13 @@ This project contains functional end-to-end tests for the demo ecommerce website
 
 ## ✅ Features Tested
 
-- 🔍 Product search
-- 🛍️ Add product to cart
-- 🧭 Category navigation
-- 📬 Contact form
-- 🔐 Login with invalid credentials
+-  Product search
+-  Add product to cart
+-  Category navigation
+-  Contact form
+-   Login with invalid credentials
 
-## 📂 Project Structure
+##  Project Structure
 
 features/ ├── steps/ │ ├── search_steps.py │ ├── cart_steps.py │ ├── category_steps.py │ ├── contact_steps.py │ └── login_steps.py ├── *.feature environment.py
 1. Create and activate a virtual environment:
@@ -28,8 +28,8 @@ features/ ├── steps/ │ ├── search_steps.py │ ├── cart_step
 
 Tools Used
 
-    Python 🐍
+    Python 
 
-    Behave 🟢
+    Behave 
 
-    Selenium 🌐
+    Selenium 
