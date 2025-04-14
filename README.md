@@ -1,4 +1,4 @@
-# Ecommerce Website - BDD Tests with Behave & Selenium 🛒
+# Ecommerce Website - BDD Tests with Behave & Selenium 
 
 This project contains functional end-to-end tests for the demo ecommerce website [automationpractice.com](http://automationpractice.com), written in **Python**, using **Behave** (BDD) and **Selenium WebDriver**.
 
@@ -19,10 +19,10 @@ features/ ├── steps/ │ ├── search_steps.py │ ├── cart_step
    source env/bin/activate
 2 Install dependencies:
    pip install -r requirements.txt
+
+   
 3 Run the tests:
    behave
-
-
 
 
 
